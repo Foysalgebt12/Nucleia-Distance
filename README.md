@@ -18,6 +18,7 @@ This Python script performs analysis on the distances between nucleus positions 
 - Scipy
 - Pandas
 - Seaborn
+- Openpyxl 
 
 ## Installation
 
@@ -94,8 +95,13 @@ Seaborn is a Python visualization library based on Matplotlib. Install it using 
 ```bash
 pip install seaborn
 ```
+Step 8: Install Openpyxl
 
-Step 8: Clone the Repository
+```bash
+pip install openpyxl
+```
+
+Step 9: Clone the Repository
 
 Clone the GitHub repository containing the code to your local machine:
 
@@ -103,7 +109,7 @@ Clone the GitHub repository containing the code to your local machine:
 git clone https://github.com/Foysalgebt12/Nucleia-Distance.git
 ```
 
-Step 9: Navigate to the Project Directory
+Step 10: Navigate to the Project Directory
 
 Navigate into the project directory:
 
@@ -111,7 +117,7 @@ Navigate into the project directory:
 cd Nucleia-Distance
 ```
 
-Step 10: Run the Python Script
+Step 11: Run the Python Script
 
 You can now run the Python script using the following command:
 
