@@ -182,4 +182,7 @@ Email:foah48505@hbku.edu.qa
 
 ## License
 
-This project is licensed under the [license]. See the [LICENSE]([./LICENSE](https://github.com/Foysalgebt12/Nucleia-Distance/blob/main/license)) file for details.
+## License
+
+This project is licensed under the [license](https://github.com/Foysalgebt12/Nucleia-Distance/blob/main/license). See the [LICENSE](https://github.com/Foysalgebt12/Nucleia-Distance/blob/main/license) file for details.
+
