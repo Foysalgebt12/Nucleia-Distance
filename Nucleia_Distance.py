@@ -1,4 +1,5 @@
 import cv2
+import openpyxl
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.spatial.distance import pdist, squareform
@@ -32,8 +33,8 @@ def mouse_callback(event, x, y, flags, param):
             print("Experimental Nucleus positions:", experimental_nucleus_positions)
 
 # Paths to the image files for control and experimental groups
-control_file_path = r'D:\LP\RANDOMFOREST\AD1C1.jpg'
-experimental_file_path = r'D:\LP\RANDOMFOREST\AD1C1Exper.jpg'
+control_file_path = r'D:\LP\RANDOMFOREST\AD1C1.jpg' #Change directory accordingly
+experimental_file_path = r'D:\LP\RANDOMFOREST\AD1C1Exper.jpg' #Change directory accordingly
 
 # Load the control image
 control_image = cv2.imread(control_file_path)
